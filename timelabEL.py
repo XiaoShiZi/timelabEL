@@ -734,5 +734,5 @@ class M3NT(wx.Frame):
 
 
 app = wx.App(0)
-M3NT(None, -1, '3NT-Key maker V0.01 by Timelab: 小狮子 & Wim ;-)')
+M3NT(None, -1, 'timelabEL-Keychain maker V0.01 by Timelab: 小狮子 & Wim ;-)')
 app.MainLoop()
