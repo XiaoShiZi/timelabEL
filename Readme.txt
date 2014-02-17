@@ -1,12 +1,15 @@
 timelabEL.py is used to create the img, stl and Gcode for an Ultimaker.
 pre-requisted are:
 python, OpenScad, Cura & a 3D-printer ;-)
-the 
+The goal was to keep the printing time around 10-12 minutes.
+Three names on one timelab label keychain hanger.
+One is the name of a visitor, the otherone is the name of the brand/exhibition/event/etc.
+The third one is our website.
 
 This was made to be able to produce different keychain's with 3 name-tags.
 We opt for a version that runs offline from the internet.
 timelab is a fablab who's 3D-printing on several events/locations sometimes with poor internet connection.
-That's why we've made this scri to ease the production of making a personalized keychain.
+That's why we've made this script to ease the production of making a personalized keychain.
 As the proof has been with the keychain of Suzanne.
 On holliday to Asia she regained here lost keys thanks to one of those personalized keychains.
 
